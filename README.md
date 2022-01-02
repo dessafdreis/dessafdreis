@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dessafdreis
  👀 I’m interested in  aprender JavaScript, CSS, HTML,  Node.Js, React      
 - 🌱 I’m currently learning  Programação      
-- 💞️ I’m looking to collaborate on  PROJETOS para ajudar no meu crescimento profisional    
+- 💞️ I’m looking to collaborate on  PROJETOS para ajudar no meu crescimento profissional    
 - 📫 How to reach me  dessafdreis@gmail.com
 
 <!---
