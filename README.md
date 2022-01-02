@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bluegirl38
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dessafdreis
+ 👀 I’m interested in  aprender JavaScript, CSS, HTML,  Node.Js, React      
+- 🌱 I’m currently learning  Programação      
+- 💞️ I’m looking to collaborate on  PROJETOS para ajudar no meu crescimento profisional    
+- 📫 How to reach me  dessafdreis@gmail.com
 
 <!---
 bluegirl38/bluegirl38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
