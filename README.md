@@ -42,6 +42,4 @@ Aqui estão algumas idéias para você começar: --->
 </div>
 </br>
 
-<div>
- <a href="https://github.com/dessafdreis/dessafdreis/blob/output/github-contribution-grid-snake.svg"></a>
-</div>
+![snake gif](https://github.com/dessafdreis/dessafdreis/blob/output/github-contribution-grid-snake.svg)
