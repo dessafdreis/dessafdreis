@@ -5,9 +5,8 @@ Sou uma desenvolvedora FrontEnd apaixonada e autodidata da Brasil 🇧🇷!
 **dessafdreis/dessafdreis é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 Você pode clicar no link Visualizar para ver suas alterações.
 Aqui estão algumas idéias para você começar: --->
-##
-## Sobre mim
 
+## Sobre mim
 - 🏁 Estou Cursando Programação DEV FULL STACK.
 - 🌱 Atualmente estou aprendendo Programação aprendendo JS, CSS, HTML5.
 - 💞️ Procurando colaborar em PROJETOS para ajudar no meu crescimento profissional
