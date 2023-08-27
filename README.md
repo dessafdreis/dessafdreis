@@ -1,10 +1,10 @@
-## Oiii, eu sou a Andressa Nascimento 
+## Oiii, eu sou a Andressa Nascimento!
 Sou uma desenvolvedora FrontEnd apaixonada e autodidata da Brasil 🇧🇷!
+</br>
 <!---
 **dessafdreis/dessafdreis é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 Você pode clicar no link Visualizar para ver suas alterações.
 Aqui estão algumas idéias para você começar: --->
-
 ##
 ## Sobre mim
 
@@ -20,7 +20,6 @@ Aqui estão algumas idéias para você começar: --->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessafdreis&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessafdreis&layout=compact&langs_count=16&theme=radical"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -44,5 +43,5 @@ Aqui estão algumas idéias para você começar: --->
 </br>
 
 <div>
- <a href="https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg"></a>
+ <a href="https://github.com/dessafdreis/dessafdreis/blob/output/github-contribution-grid-snake.svg"></a>
 </div>
