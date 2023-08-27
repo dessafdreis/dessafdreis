@@ -1,5 +1,5 @@
-## Oiii, eu sou a Andressa Nascimento!
-Sou uma desenvolvedora FrontEnd apaixonada e autodidata da Brasil 🇧🇷!
+## Andressa Nascimento!
+Desenvolvedora FrontEnd apaixonada e autodidata da Brasil 🇧🇷!
 </br>
 <!---
 **dessafdreis/dessafdreis é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
