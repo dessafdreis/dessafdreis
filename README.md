@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @dessafdreis
- 👀 I’m interested in  aprender JavaScript, CSS, HTML,  Node.Js, React      
-- 🌱 I’m currently learning  Programação      
-- 💞️ I’m looking to collaborate on  PROJETOS para ajudar no meu crescimento profissional    
-- 📫 How to reach me  dessafdreis@gmail.com
-
+## Oiii, eu sou a Andressa Nascimento 
+Sou uma desenvolvedora FrontEnd apaixonada e autodidata da Brasil 🇧🇷!
 <!---
-bluegirl38/bluegirl38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**dessafdreis/dessafdreis é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
+Você pode clicar no link Visualizar para ver suas alterações.
+Aqui estão algumas idéias para você começar: --->
+
+##
+## Sobre mim
+
+- 🏁 Estou Cursando Programação Dev Full Stack.
+- 🌱 Atualmente estou aprendendo Programação aprendendo JS, CSS, HTML5.
+- 💞️ Procuro colaborar em PROJETOS para ajudar no meu crescimento profissional
+- ❤️ Adoro escrever TypeScript e criar experimentos divertidos em nível de tipo
+- 💬 Pergunte-me sobre qualquer coisa aqui
+- 📫 Como entrar em contato comigo dessafdreis@gmail.com
+- 🤭 Pronomes: ela/dela
+
+ <a href="https://dessafdreis"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessafdreis&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessafdreis&layout=compact&langs_count=16&theme=radical"/>
+</div>
