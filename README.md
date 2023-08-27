@@ -8,9 +8,9 @@ Aqui estão algumas idéias para você começar: --->
 ##
 ## Sobre mim
 
-- 🏁 Estou Cursando Programação Dev Full Stack.
+- 🏁 Estou Cursando Programação DEV FULL STACK.
 - 🌱 Atualmente estou aprendendo Programação aprendendo JS, CSS, HTML5.
-- 💞️ Procuro colaborar em PROJETOS para ajudar no meu crescimento profissional
+- 💞️ Procurando colaborar em PROJETOS para ajudar no meu crescimento profissional
 - ❤️ Adoro escrever TypeScript e criar experimentos divertidos em nível de tipo
 - 💬 Pergunte-me sobre qualquer coisa aqui
 - 📫 Como entrar em contato comigo dessafdreis@gmail.com
